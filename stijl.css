@@ -1,0 +1,20 @@
+#board {
+    width: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); 
+
+    /* grid-template was een tip van mijn neef. Zorgrt ervoor dat de rijen uit 4 bestaan en 1fr is dat er evenveel ruimte tussen blijft  */
+}
+
+#board div {
+    height: 150px;
+    background: red;
+    margin: 20px;
+    font-size: 6em;
+    text-align: center;
+}
+
+h1, h3{
+    text-align: center;
+}
