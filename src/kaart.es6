@@ -18,8 +18,6 @@ export default class Kaart {
         // met de array met de letters doet hij het, en husselt hij ook alle kaarten (console.log).
         // in de lege array doet hij niets, terwijl in de eerste versie de we maakt, er ook niets instaat, maar wel nummers genereert.
 
-        // this.kaarten = ['A','A','B','B', 'C', 'C'];
-        this.kaarten = [];
 
         this.generateCards(); 
         this.draai();
