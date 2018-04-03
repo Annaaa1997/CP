@@ -1,4 +1,5 @@
 
+
 // class Klikken { 
 //     constructor (kaarten, i){
 //         this.kaarten = kaarten;

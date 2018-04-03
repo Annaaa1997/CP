@@ -7,6 +7,7 @@ board.maak(); //maakt het daadwerkelijk
 
 Kaart.maaktkaart();
 
+
 // console.log(board.kaarten);
 
 

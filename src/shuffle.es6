@@ -12,7 +12,7 @@ export default class Delen {
     }
 
     schudden(){
-        // console.log ("ikwerkook");
+        console.log ("ikwerkook");
         let that = this;
         while (0 !== that.huidigekaarten)  
             {

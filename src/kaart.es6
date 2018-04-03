@@ -18,6 +18,8 @@ export default class Kaart {
         this.maaktkaart();
 
 
+
+
     }
 
     //hier krijgt hij dan twee keer kaarten met dezelfde waarde

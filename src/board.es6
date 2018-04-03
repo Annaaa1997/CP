@@ -12,6 +12,7 @@ export default class Board {
 
     constructor(aantal, kaarten) {
 
+
 //hierover twijfel ik of het in het board moet, omdat het ook bij de kaart kan. Aangezien het een element is van de kaart, maar dan weet ik 
 //niet hoe de board weet of die open of goed is. 
         this.openkaart = '';  //lege string eerste kaart
