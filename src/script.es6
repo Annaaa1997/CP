@@ -1,8 +1,11 @@
 import Board from "./board.es6"
 
 
-var board = new Board(2); //maakt het eerste board aan
+let board = new Board(4); //maakt het eerste board aan
 board.maak(); //maakt het daadwerkelijk
+
+
+Kaart.maaktkaart();
 
 // console.log(board.kaarten);
 
